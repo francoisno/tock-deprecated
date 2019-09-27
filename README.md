@@ -1,1 +1,1 @@
-The new github repository of Tock is here : [https://github.com/theopenconversationkit/tock](https://github.com/theopenconversationkit/tock)
+**Tock** *(The Open Conversation Kit)* has moved to ➡️ [https://github.com/theopenconversationkit/tock](https://github.com/theopenconversationkit/tock)
