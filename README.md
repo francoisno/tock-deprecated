@@ -1,0 +1,1 @@
+The new github repository of Tock is here : [https://github.com/theopenconversationkit/tock](https://github.com/theopenconversationkit/tock)
